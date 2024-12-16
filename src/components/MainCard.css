@@ -1,0 +1,19 @@
+.main-card{
+  color: #fff;
+  font-size: 24px;
+}
+.img_style{
+  height: 400px;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 3px 8px;
+  transform: translateX(20px);
+}
+
+.main_btn_style{
+  cursor: pointer;
+  width: 60px;
+  border: none;
+  outline: none;
+  color: white;
+  background: none;
+  font-size:40px;
+}
